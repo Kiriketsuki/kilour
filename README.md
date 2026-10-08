@@ -1,6 +1,6 @@
 # kilour
 
-![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)
+![Version](https://img.shields.io/badge/version-26.0.0.1-blue.svg)
 
 kilour is a simple command-line tool written in Go that extracts the dominant colors from an image and generates a CSS file with CSS variables for those colors. It uses K-means clustering to find the most prominent colors and names them using the nearest standard web color name.
 
